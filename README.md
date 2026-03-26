@@ -1,7 +1,8 @@
 # Digital.literacy_Project
 Digital Literacy Project (CSE001) - Includes poster creation, app profiles, cybercrime case study, and online safety checklist. This repository contains all the tasks assigned for the project of Digital Project.  
-
-Overview
+Name - Preeti Chauhan
+Reg no. - 25BCE10546
+Overview :
 This repository contains the complete **Digital Literacy (CSE001) project**, demonstrating practical skills in digital awareness, content creation, and online safety. The project covers creating visually appealing digital content, understanding cybercrime, and promoting safe online practices.
 
 Tasks Summary :
